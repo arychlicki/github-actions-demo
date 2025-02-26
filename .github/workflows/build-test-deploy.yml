@@ -3,7 +3,7 @@ name:  build-test-deploy
 on:  push
 
 jobs:
-  buils:
+  build:
     runs-on:  ubuntu-latests
 
     steps:
